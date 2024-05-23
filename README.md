@@ -1,6 +1,6 @@
 # hse_hw4_hic
-UPD: я выполнил основную часть работ 5 мая, после дедлайна решил взяться за часть I (не получил нужный результат), поэтому последний комит показывает 21.05. Пожалуйста, не снимайте баллы за просрок :(
-chr3L 800000:3800000  Drosophila melanogaster
+UPD: я выполнил основную часть работ 5 мая, после дедлайна решил взяться за часть I (не получил нужный результат), поэтому последний комит показывает 21.05. Пожалуйста, не снимайте баллы за просрок :( 
+### chr3L 800000:3800000  Drosophila melanogaster
 ### Work on Colab https://colab.research.google.com/drive/1hKRDKOKJCy9Kwa_j3omb2Ehe53pk9v1V?usp=sharing
 ## A (HI-C Cooler.info) 
 ![image](https://github.com/vityavasilev/hse_hw4_hic/assets/147335727/5a225209-abfb-4fbb-836f-af17f2ba9641)
